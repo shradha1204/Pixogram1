@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.social.imageApp.Pixogram.RegisterControllerTest
+-------------------------------------------------------------------------------
+Tests run: 2, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 5.189 s - in com.social.imageApp.Pixogram.RegisterControllerTest
