@@ -39,13 +39,13 @@ public class RegisterControllerTest {
 	{
 		User mockUser=new User();
 		mockUser.setUserId(1);
-		mockUser.setUsername("Rohan Dutta");
-		mockUser.setFirstName("Rohan");
-		mockUser.setLastName("Dutta");
+		mockUser.setUsername("Shradha Agarwal");
+		mockUser.setFirstName("Shradha");
+		mockUser.setLastName("Agarwal");
 		mockUser.setEmail("abc@gmail.com");
-		mockUser.setPassword("Rohan");
+		mockUser.setPassword("Shradha");
 		mockUser.setProfilePicture("image");
-		mockUser.setAbout("Rohan");
+		mockUser.setAbout("Shradha");
 		mockUser.setImageCount(2);
 		mockUser.setVideoCount(3);
 		mockUser.setFollowerCount(4);
@@ -77,13 +77,13 @@ public class RegisterControllerTest {
 	{
 		User mockUser1=new User();
 		mockUser1.setUserId(1);
-		mockUser1.setUsername("Rohan Dutta");
-		mockUser1.setFirstName("Rohan");
-		mockUser1.setLastName("Dutta");
+		mockUser1.setUsername("Shradha Agarwal");
+		mockUser1.setFirstName("Shradha");
+		mockUser1.setLastName("Agarwal");
 		mockUser1.setEmail("abc@gmail.com");
-		mockUser1.setPassword("Rohan");
+		mockUser1.setPassword("Shradha");
 		mockUser1.setProfilePicture("image");
-		mockUser1.setAbout("Rohan");
+		mockUser1.setAbout("Shradha");
 		mockUser1.setImageCount(2);
 		mockUser1.setVideoCount(3);
 		mockUser1.setFollowerCount(4);
